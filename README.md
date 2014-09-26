@@ -6,7 +6,7 @@ Very lite files and folders browser for your server
 - easy to integrate into other projects
 - usefull when your server has Directory Listing disabled
 
-![Alt text](lite-ftp-browser.png?raw=true "Lite FTP Files Browsing")
+![Alt text](lite-ftp-browser.PNG?raw=true "Lite FTP Files Browsing")
 
 
 ***
