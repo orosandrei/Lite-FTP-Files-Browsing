@@ -8,7 +8,8 @@ Very lite files and folders browser for your server
 
 ![Alt text](lite-ftp-browser.PNG?raw=true "Lite FTP Files Browsing")
 
-
+***
+The icons are from [Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/)
 ***
 
 * Twitter: http://twitter.com/orosandrei
