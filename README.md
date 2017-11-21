@@ -1,4 +1,4 @@
-#Lite FTP Files Browsing#
+# Lite FTP Files Browsing #
 Very lite files and folders browser for your server
 ***
 - all in a single Php script file
